@@ -1,4 +1,4 @@
-# DungeonGameInC-
+# DungeonGame In C++
 Dungeon Fate is the choice-based game I made for my C++ class final project. This was made on October 27, 2021.
 
 Please compile the code to run.
